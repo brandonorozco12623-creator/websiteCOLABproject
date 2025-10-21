@@ -1,191 +1,184 @@
 # Brand Archetype Research
 
-Quick navigation:
-- Home: [README](../README.md)
-- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../STUDENT-GUIDE-SIMPLIFIED.md)
-- Other templates: [Persuasion](persuasion.md) • [Sales funnel](sales-funnel.md)
-- Competitor template: [competitors/competitor-template.md](competitors/competitor-template.md)
-
-<!-- 
-👤 YOUR ROLE: Archetype Researcher
-📁 FILE: /docs/archetype.md
-
-QUICK START:
-1. Read about the 12 brand archetypes (see main README or search "Jung brand archetypes")
-2. Choose ONE archetype that fits your team's business category
-3. Research that archetype's characteristics
-4. Find 3 real brand examples
-5. Explain how YOUR business should use this archetype
-
-Need help? Check the STUDENT-GUIDE-SIMPLIFIED.md file!
--->
-
-## Chosen Archetype: [INSERT ARCHETYPE NAME HERE]
+## Chosen Archetype: The Sage
 
 ### Definition and Core Traits
-<!-- 
-Explain what this archetype represents and its key personality characteristics.
-Example: "The Explorer archetype represents freedom, discovery, and authenticity..."
--->
 
-**Core Motivation:** [What drives this archetype?]
+The Sage archetype embodies wisdom, expertise, and the pursuit of truth. As the trusted advisor and expert, the Sage transforms complexity into clarity through knowledge and insight.
+
+**Core Motivation:** Seek truth and share wisdom to help others make informed decisions.
 
 **Key Personality Traits:**
-- [Trait 1]
-- [Trait 2] 
-- [Trait 3]
+- Expert and knowledgeable
+- Analytical and methodical
+- Trusted advisor and mentor
+- Values clarity and understanding
+- Patient educator
+- Confident yet humble
+- Long-term, strategic thinker
 
-**Target Audience:** [Who is attracted to this archetype?]
+**Target Audience:** Executives, decision-makers, and businesses seeking expert guidance for complex challenges. Values evidence-based solutions and strategic thinking over quick fixes.
 
 ---
 
 ## Visual Identity Guidelines
 
 ### Color Palette
-<!-- 
-Research typical colors for your archetype. Include both primary and secondary colors.
-You can use color names or hex codes.
--->
 
 **Primary Colors:**
-- [Color 1] - [Why this color fits the archetype]
-- [Color 2] - [Why this color fits the archetype]
+- **Deep Navy (#1a2332)** - Authority, professionalism, and credibility. Sophisticated without being cold
+- **Slate Grey (#34495e)** - Stability and analytical thinking. Balances authority with approachability
 
 **Secondary/Accent Colors:**
-- [Color 3]
-- [Color 4]
+- **Wisdom Gold (#c49b58)** - Value, enlightenment, and prestige. Differentiates from typical corporate blues
+- **Electric Blue (#00d4ff)** - Innovation and clarity. Adds energy and modernity
+- **Warm Grey (#f5f3f0)** - Sophisticated neutral for elegance and breathing room
 
 ### Typography Style
-<!-- 
-What kind of fonts match your archetype's personality?
-Examples: Modern sans-serif, classic serif, handwritten, bold display fonts
--->
 
 **Recommended Font Types:**
-- Primary: [Font style/example] - [Why it fits]
-- Secondary: [Font style/example] - [Why it fits]
+- **Primary (Headings): Crimson Text (Serif)** - Classical authority and timeless expertise without being overly formal
+- **Secondary (Body): Lato (Sans-serif)** - Clean, modern readability that balances traditional elements
 
 **Font Examples:**
-- [Specific font name 1]
-- [Specific font name 2]
+- Crimson Text (700 for headings, 600 for subheadings)
+- Lato (400 body, 500-600 emphasis, 300 subtle)
+
+**Typography Characteristics:**
+- Large, bold numbers for statistics (3-5rem)
+- Negative letter-spacing on headings (-0.02em) for sophistication
+- Generous line-height (1.6-1.7) for readability
+- Upper-case labels with letter-spacing (0.05em)
 
 ### Imagery and Visual Style
-<!-- 
-What kinds of photos, illustrations, or graphics work well?
-Think about composition, mood, subjects, and overall feel.
--->
 
 **Typical Imagery:**
-- [Image type 1] - [Description]
-- [Image type 2] - [Description]
-- [Image type 3] - [Description]
+- **Custom SVG Line Art** - Minimalist icons for education, navigation, growth, and optimization
+- **Geometric Patterns** - Subtle animated backgrounds suggesting depth and possibility
+- **Abstract Representations** - Timelines, roadmaps, and process flows illustrating clarity
 
-**Visual Mood:** [Describe the overall feeling/atmosphere]
+**Visual Mood:** Sophisticated yet approachable, authoritative without intimidation. Calm confidence and clarity.
 
-**Symbols/Icons:** [Any recurring symbols or visual elements]
+**Symbols/Icons:** Compass (guidance), light (wisdom), book (knowledge), timeline (methodology), trending graphs (progress), stars (excellence)
 
 ---
 
 ## Brand Voice and Messaging
 
 ### Tone of Voice
-<!-- 
-How does this archetype "speak" to customers?
-Examples: Friendly and approachable, sophisticated and premium, bold and adventurous
--->
 
-**Overall Tone:** [Describe the communication style]
+**Overall Tone:** Knowledgeable yet accessible, authoritative but not condescending. Confident through experience, using clear language to demystify complexity. Patient and educational, focusing on empowerment rather than dependency.
 
 **Key Messaging Themes:**
-- [Theme 1]
-- [Theme 2]
-- [Theme 3]
+- **Transformation through Knowledge** - "From confusion to clarity," "Transform complexity into advantage"
+- **Proven Methodology** - Structured approaches, data-driven decisions, repeatable processes
+- **Wisdom and Expertise** - Trusted advisor with deep knowledge and strategic implementation
+- **Empowerment** - Enable informed decisions, not create dependency
+- **Long-term Value** - Sustainable success, continuous optimization, lasting transformation
 
 ### Sample Vocabulary
-<!-- 
-What specific words or phrases would this archetype use in marketing?
-Think about headlines, product descriptions, calls-to-action.
--->
 
 **Power Words:**
-- [Word 1]
-- [Word 2]
-- [Word 3]
-- [Word 4]
+- Illuminate, Transform, Clarity, Wisdom, Expertise
+- Strategic, Methodical, Comprehensive, Evidence-based
+- Guidance, Insight, Understanding, Mastery
+- Navigate, Optimize, Refine, Evolve
+- Proven, Trusted, Reliable, Expert
+- Demystify, Simplify, Unlock, Reveal
 
 **Sample Headlines:**
-- "[Example headline 1]"
-- "[Example headline 2]"
+- "Transform AI Complexity Into Competitive Advantage"
+- "Illuminate Your Path to AI Excellence"
+- "From Confusion to Clarity in 4 Proven Steps"
+- "Expert Guidance for Businesses Seeking Wisdom in the Age of AI"
+- "Join 500+ Companies That Reduced AI Implementation Time by 67%"
+- "Wisdom Shared, Success Multiplied"
+
+**Call-to-Action Phrases:**
+- "Get Your Free AI Assessment"
+- "Claim Your 30-Minute Strategy Session"
+- "Discover the Solution"
+- "See How We Work"
 
 ---
 
 ## Real Brand Examples
 
-### Example 1: [Brand Name]
-**Website:** [URL if available]
+### Example 1: McKinsey & Company
+**Website:** https://www.mckinsey.com
 
 **How they use this archetype:**
-- [Specific example 1]
-- [Specific example 2]
-- [Specific example 3]
+- Deep research, white papers, and thought leadership establish expertise
+- Sophisticated design with navy blues and professional imagery
+- Messaging focuses on "insights" and "transformative solutions" backed by data
+- Free educational content (McKinsey Insights) builds trust
+- Positions consultants as trusted advisors for complex challenges
 
-### Example 2: [Brand Name]
-**Website:** [URL if available]
-
-**How they use this archetype:**
-- [Specific example 1]
-- [Specific example 2]
-- [Specific example 3]
-
-### Example 3: [Brand Name] (Optional)
-**Website:** [URL if available]
+### Example 2: Harvard Business Review
+**Website:** https://hbr.org
 
 **How they use this archetype:**
-- [Specific example 1]
-- [Specific example 2]
+- Classic serif typography paired with clean sans-serif
+- Content-first design prioritizing knowledge and analysis
+- "Evidence-based management" and "research-backed insights" messaging
+- Complex concepts presented through clear frameworks
+- Academic rigor while remaining accessible to practitioners
+
+### Example 3: TED
+**Website:** https://www.ted.com
+
+**How they use this archetype:**
+- "Ideas worth spreading" embodies knowledge-sharing mission
+- Clean, organized layouts emphasize clarity
+- Curates speakers to ensure quality and expertise
+- Makes complex ideas accessible through structured format
+- Builds community around learning and intellectual curiosity
 
 ---
 
 ## Application to Our Business Category
 
 ### Why This Archetype Fits
-<!-- 
-Explain why you chose this archetype for your team's business category.
-Connect it to your target audience and business goals.
--->
 
-[Your reasoning here - 2-3 paragraphs]
+The Sage archetype is ideal for AI training and consulting because the industry is characterized by complexity and widespread confusion. Businesses recognize AI's importance but struggle with implementation—creating a perfect scenario for the Sage to cut through noise and provide clarity.
+
+AI consulting requires deep expertise and the ability to translate complex technical concepts into actionable strategies. The Sage positions us as trusted advisors rather than vendors, emphasizing education and empowerment over dependency. This builds long-term relationships based on trust and results.
+
+Our target audience—executives at established companies—specifically seeks expert guidance. The Sage's focus on methodology, proven processes, and evidence-based approaches resonates more than aggressive sales tactics. It differentiates us from competitors while offering sustainable value: wisdom, understanding, and partnership.
 
 ### Implementation Ideas
-<!-- 
-How could a business in your category use this archetype?
-Think about website design, marketing messages, product presentation.
--->
 
 **Website Design Ideas:**
-- [Idea 1]
-- [Idea 2]
-- [Idea 3]
+- Single-page slider guiding visitors through structured learning journey
+- Sophisticated color palette: deep navy (authority) and wisdom gold (value)
+- Custom SVG icons for professional aesthetic
+- Generous white space preventing cognitive overload
+- Animated trust indicators emphasizing credibility
+- Timeline visualization showing 4-step methodology
+- Star ratings and testimonials establishing social proof
 
 **Marketing Message Ideas:**
-- [Message 1]
-- [Message 2]
+- "Transform AI Complexity Into Competitive Advantage"
+- "From Confusion to Clarity in 4 Proven Steps"
+- "Join 500+ companies that reduced AI implementation time by 67%"
+- Educational CTAs: "Get Your Free AI Assessment" vs. "Buy Now"
 
 **Product/Service Presentation:**
-- [How to present offerings using this archetype]
+- Frame as journey: Discovery → Foundation → Implementation → Optimization
+- Emphasize comprehensive education over quick fixes
+- Use visual metaphors: compass, lantern, roadmap
+- Present case studies as "wisdom shared and multiplied"
+- Offer free consultations as reciprocity before commitment
+- Structure pricing around ongoing partnership, not one-time transactions
 
 ---
 
 ## Research Sources
-<!-- 
-List your sources - websites, articles, books, etc.
-This shows your research process and helps teammates verify information.
--->
 
-1. [Source 1 - Title and URL]
-2. [Source 2 - Title and URL]
-3. [Source 3 - Title and URL]
-
----
-
-*💡 Remember: Your archetype research should connect with your teammates' work on persuasion techniques and sales funnels. Think about how this personality would influence the entire customer experience!*
+1. **Margaret Mark & Carol S. Pearson** - "The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes"
+2. **Carl Jung** - Archetypes and the Collective Unconscious (psychological foundation)
+3. **Nielsen Norman Group** - "Luxury UX: High-End Website Design" - https://www.nngroup.com/articles/luxury-ux/
+4. **Harvard Business Review** - "The New Science of Customer Emotions"
+5. **Real-world analysis** - McKinsey.com, HBR.org, TED.com (Sage archetype examples)
+6. **Color Psychology in Marketing** - https://www.colorpsychology.org/
+7. **Google Fonts** - Crimson Text & Lato documentation

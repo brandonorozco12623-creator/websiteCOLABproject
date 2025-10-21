@@ -1,26 +1,5 @@
 # Persuasion Principles in Marketing
 
-Quick navigation:
-- Home: [README](../README.md)
-- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../STUDENT-GUIDE-SIMPLIFIED.md)
-- Other templates: [Archetype](archetype.md) • [Sales funnel](sales-funnel.md)
-- Competitor template: [competitors/competitor-template.md](competitors/competitor-template.md)
-
-<!-- 
-👤 YOUR ROLE: Persuasion Analyst
-📁 FILE: /docs/persuasion.md
-
-QUICK START:
-1. Read about Cialdini's 6 principles (see main README or search "Cialdini persuasion")
-2. For EACH principle, find 2+ real examples from websites
-3. Explain which principles work best for your business category
-4. Make recommendations for YOUR business
-
-THE 6 PRINCIPLES: Reciprocity, Scarcity, Authority, Consistency, Liking, Social Proof
-
-Need help? Check the STUDENT-GUIDE-SIMPLIFIED.md file!
--->
-
 ## Introduction to Cialdini's Principles
 
 <!-- 
@@ -307,7 +286,3 @@ List your sources - websites, articles, books, examples you analyzed.
 2. [Source 2 - Title and URL]
 3. [Source 3 - Title and URL]
 4. [Website examples you analyzed]
-
----
-
-*💡 Remember: These persuasion principles should align with your team's chosen brand archetype and support the sales funnel flow. Think about how they work together to create a cohesive customer experience!*
